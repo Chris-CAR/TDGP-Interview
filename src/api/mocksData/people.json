@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b54b8f83-af63-4d9e-8a34-2c650de9e875",
+    "name": "Bulbasaur",
+    "email": "bulbasaur_001@grass-poison.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "e5d2f988-dad7-4eae-8f59-9ac8c14b7ab7",
+    "name": "Charmander",
+    "email": "charmander_004@fire.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "491a3b22-b0f4-40a7-87f4-b1b56f25c7b6",
+    "name": "Squirtle",
+    "email": "squirtle_007@water.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "3e6a5032-6474-42c9-9834-53d60a47d312",
+    "name": "Pikachu",
+    "email": "pikachu_025@electric.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "fa6de2c9-54c3-408e-9547-730e3f78bc7e",
+    "name": "Eevee",
+    "email": "eevee_133@normal.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "f82aef64-9f3e-4bea-87b0-d4a5fe69e9a5",
+    "name": "Mewtwo",
+    "email": "mewtwo_150@psychic.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "96e7d25d-5c39-45db-b4d1-7f0cfe6d364d",
+    "name": "Gengar",
+    "email": "gengar_094@ghost-poison.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "9a31a8f9-5930-4ccf-9250-73c68246d1ef",
+    "name": "Dragonite",
+    "email": "dragonite_149@dragon-flying.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "346423c4-9fda-4a3c-b862-d5e12ab5a89a",
+    "name": "Mew",
+    "email": "mew_151@psychic.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "6a7147d4-f618-45be-8a69-30e8b84c3569",
+    "name": "Snorlax",
+    "email": "snorlax_143@normal.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "9e8e46a3-6ae2-417b-a064-3434bfb32b6c",
+    "name": "Lapras",
+    "email": "lapras_131@water-ice.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  },
+  {
+    "id": "6e88f2af-6346-47ae-909b-3b6ed86fe6c3",
+    "name": "Gyarados",
+    "email": "gyarados_130@water-flying.com",
+    "birthdate": "1996-02-27",
+    "image": null
+  }
+]

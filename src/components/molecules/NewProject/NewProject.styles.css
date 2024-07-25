@@ -1,0 +1,39 @@
+.close-bt {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 100%;
+  margin: 10px 5px 0 0;
+}
+.modal-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.main-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.profile-and-cellphone {
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.profile-and-cellphone p {
+  margin-left: 10px;
+}
+.profile-and-cellphone p:last-child {
+  margin-bottom: 10px;
+}
+.user-content {
+  display: flex;
+  flex-direction: column;
+  margin-right: 12px;
+}
+.text-field {
+  margin-bottom: 10px;
+}
